@@ -40,9 +40,6 @@ void Cal::print( int year, int mon )
     }
 
     //cout << "!!" << dow(year,mon) << endl;
-
-
-
     return;
 }
 
